@@ -1,4 +1,4 @@
-#kingsley&blisstrends.ug.github.io
+#borex256.github.io
 Kingsley-and-Bliss-trends
 <title>KINGSLEY & BLISS TRENDS | Official Site</title> <style> :root { --gold: #D4AF37; --black: #0a0a0a; --grey: #1a1a1a; --white: #ffffff; --mtn: #ffcc00; --airtel: #ff0000; }
 
